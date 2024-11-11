@@ -1,0 +1,38 @@
+[
+{
+  "model": "linkshortener.links",
+  "pk": 1,
+  "fields": {
+    "full_link": "http://localhost:8000/hello_from_DRF",
+    "short_link": "http://localhost:8000/1",
+    "time_create": "2022-08-23T15:42:02Z"
+  }
+},
+{
+  "model": "linkshortener.links",
+  "pk": 2,
+  "fields": {
+    "full_link": "http://localhost:8000/working/today",
+    "short_link": "http://localhost:8000/2",
+    "time_create": "2022-10-14T09:42:53Z"
+  }
+},
+{
+  "model": "linkshortener.links",
+  "pk": 5,
+  "fields": {
+    "full_link": "http://localhost:8000/api/v1/linkslist",
+    "short_link": "http://localhost:8000/5",
+    "time_create": "2024-11-09T11:11:47.035Z"
+  }
+},
+{
+  "model": "linkshortener.links",
+  "pk": 6,
+  "fields": {
+    "full_link": "http://localhost:8000/api/v1/linkslist2",
+    "short_link": "http://localhost:8000/6",
+    "time_create": "2024-11-09T11:15:23.407Z"
+  }
+}
+]
